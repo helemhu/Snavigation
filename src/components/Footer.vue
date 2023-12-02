@@ -5,7 +5,7 @@
       <span class="year">{{ fullYear }}</span>
       <span
         class="anthor"
-        @click="jumpTo(copyrightLink ?? 'https://github.com/imsyy/Snavigation')"
+        @click="jumpTo(copyrightLink ?? 'https://github.com/helemhu/Snavigation')"
       >
         {{ siteAnthor }}
       </span>
